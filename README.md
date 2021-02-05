@@ -25,5 +25,7 @@ npm install --save-dev webpack-dev-server<br/>
 npm install --save react react-dom<br/>
 npm install --save-dev html-webpack-plugin<br/>
 
+yarn start
+
 
 
